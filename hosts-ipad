@@ -78311,7 +78311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 4.afs.googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
+#0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.linksalpha.com
 # [Gossamer][AS36483][172.255.48.0 - 172.255.63.255]
